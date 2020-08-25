@@ -44,4 +44,4 @@ username: sinanomik@gmail.com
 
 password: 12345
 
-![myimage-alt-tag](https://github.com/E-Commerse-php-Codeigniter/ImagesReadMe/1.jpg)
+![myimage](https://github.com/E-Commerse-php-Codeigniter/ImagesReadMe/1.jpg)
