@@ -44,4 +44,4 @@ username: sinanomik@gmail.com
 
 password: 12345
 
-![Test Image 4](https://github.com/E-Commerse-php-Codeigniter/ReadMe-Images/Ekran Alıntıs7ı.jpg)
+![Image](https://github.com/E-Commerse-php-Codeigniter/ReadMe-Images/Ekran Alıntıs7ı.jpg)
